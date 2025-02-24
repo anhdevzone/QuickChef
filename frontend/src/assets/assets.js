@@ -49,23 +49,23 @@ export const assets = {
 
 export const specialityData = [
     {
-        speciality: ' Chef',
+        speciality: ' Đầu bếp',
         image: General_physician
     },
     {
-        speciality: 'Classes',
+        speciality: 'Lớp học',
         image: Gynecologist
     },
     {
-        speciality: 'Testing',
+        speciality: 'Kiểm tra',
         image: Dermatologist
     },
     {
-        speciality: 'Nutrition',
+        speciality: 'Dinh dưỡng',
         image: Pediatricians
     },
     {
-        speciality: 'Recipes',
+        speciality: 'Công thức nấu ăn',
         image: Neurologist
     },
 ]
