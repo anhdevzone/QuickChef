@@ -212,11 +212,11 @@ const AddDoctor = () => {
                 value={speciality}
                 className="border rounded px-2 py-2"
               >
-                <option value="Chef">Đầu bếp</option>
-                <option value="Classes">Giáo viên</option>
-                <option value="Testing">Kiểm tra</option>
-                <option value="Nutrition">Dinh dưỡng</option>
-                <option value="Recipes">Công thức nấu ăn</option>
+                <option value="Đầu bếp">Đầu bếp</option>
+                <option value="Giáo viên">Giáo viên</option>
+                <option value="Kiểm tra">Kiểm tra</option>
+                <option value="Dinh dưỡng">Dinh dưỡng</option>
+                <option value="Công thức nấu ăn">Công thức nấu ăn</option>
               </select>
             </div>
 
